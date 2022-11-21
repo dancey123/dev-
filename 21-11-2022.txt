@@ -1,0 +1,54 @@
+
+java -version
+mvn -version
+git clone - clone the repo
+mkdir repo
+cd repo
+git clone
+ls
+cd java-maven/
+ls
+pom.xml 
+mvn-trigger the code
+mvn package- it will perform unit test and some test cases
+vi pom.xml-error rectify
+ls
+target contains artifact
+ls target
+cd target
+to run the artifact- java -jar
+tomcat-inbuild software
+127.0.0.1 or localhost-ip address
+why dns-it convert human readable language
+0 to 65356
+0 to 256
+8080-port number
+ip address:port number
+127.0.0.1:8080
+localhost:8080
+mvn clean package- it remove old artifact and it replace
+mvn clean package -DskipTests
+mvn test
+
+paste the code url
+cd ..
+git clone paste url
+ls
+cd
+vm crash-check with version
+java -version
+sudo apt remove default 
+sudo apt 
+war -it is a huge application
+
+webserver softwares
+1.tomcat - build for java
+server is a system we can access from anywhere
+
+lan-network
+router
+isp-internet service provider
+tcp protocol -for networking  transporting
+udp protocol
+tomcat container- jsp container
+sudo apt install tomcat9- install tomcat
